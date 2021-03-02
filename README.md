@@ -1,3 +1,4 @@
+# merge-hello
 # merge-conflict
 
 <<<<<<< HEAD
